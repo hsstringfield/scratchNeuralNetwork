@@ -5,4 +5,4 @@ I wanted to go through this book as a primer for future learning or courses on m
 
 ## Finished Chapter
 
-7
+9
